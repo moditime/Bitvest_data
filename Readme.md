@@ -11,8 +11,8 @@
  ## php run.php --action=delete --id=1234567
  Student must be identified by student id for deleting.
  ## php run.php --action=search
- Enter Search Criteria: name=test
- Enter Search Criteria: surname=test
- Enter Search Criteria: age=test
- Enter Search Criteria: Curriculunm=test
+ ## Enter Search Criteria: name=test
+ ## Enter Search Criteria: surname=test
+ ## Enter Search Criteria: age=test
+ ## Enter Search Criteria: Curriculunm=test
   User will be prompted for the search criteria.any criteria chosen will retrive the student/(s) details.
